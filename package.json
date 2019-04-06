@@ -1,0 +1,21 @@
+    
+{
+  "version": "1.0.0",
+  "name": "cordova-plugin-speedata-uhf",
+  "cordova_name": "SpeedataUfh",
+  "description": "This plugin allows use of the UFH device in a cordova app",
+  "license": "MIT",
+  "repo": "https://github.com/spelltwister/RFID_UHF_SPEEDATA_PDA",
+  "issue": "",
+  "keywords": [],
+  "platforms": [
+    "android",
+    "ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.5.0"
+    }
+  ]
+}
